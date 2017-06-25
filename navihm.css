@@ -1,0 +1,66 @@
+#ps {
+	font-size: 75px;
+	padding-left: 50px;
+	padding-right: 25px;
+}
+
+#ps1 {
+	font-size: 45px;
+	text-align: center;/*
+	padding-left: 50px;
+	padding-right: 25px;*/
+}
+
+ul {
+	font-size: 40px;
+    list-style-type: none;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+h1{ 
+  color: white;
+  background-color: lightgray;
+  font-size: 56px;
+  text-align: center;
+}
+
+.cleanz {
+	clear: both;
+}
+
+table, th, td, tr {
+    border-collapse: collapse;
+    border: 1px dotted orange;
+    height: 24px;
+    text-align: center;
+} 
+
+table {
+	width : 50%;
+	margin-left: 160px;
+}
+
+th {
+  font-size: 46px;
+  color: orange;
+}
