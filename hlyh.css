@@ -1,0 +1,15 @@
+p { 
+	font-size: 23px;
+ }
+
+table{ 
+	font-size: 40px;
+	border: 1px dashed #242424; 
+	text-align: center;
+	margin-left: 400px;
+	margin-top: 10px;
+	width: 50%;
+}
+
+tr:nth-child(odd) td:nth-child(even) {background-color: gray;}
+tr:nth-child(even) td:nth-child(odd) {background-color: gray;}
